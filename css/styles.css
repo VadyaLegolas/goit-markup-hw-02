@@ -45,9 +45,6 @@ body {
 /* === END COMPONENTS === */
 
 /* === START HEADER ===*/
-.line {
-  border: 1px solid #ececec;
-}
 
 .logo {
   font-family: var(--secondary-font-family);
@@ -194,7 +191,7 @@ body {
 
 /* -------START PORTFOLIO-------- */
 
-/* === START FILTERS === */
+/* === START PROJECTS === */
 .filter-button {
   font-weight: 500;
   font-size: 16px;
@@ -214,9 +211,7 @@ body {
   border-radius: 4px;
   color: var(--primary-text-color-theme-dark);
 }
-/* === END FILTERS === */
 
-/* === START PROJECTS === */
 .projects-card {
   background: #ffffff;
   border: 1px solid #eeeeee;
